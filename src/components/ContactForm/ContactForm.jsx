@@ -22,7 +22,7 @@ export const ContactForm = () => {
       alert(`${name} is already in contacts.`);
       return;
     }
-    console.log(name, number);
+
     dispatch(addContacThunk({ name, number }));
     evt.target.reset();
   };
