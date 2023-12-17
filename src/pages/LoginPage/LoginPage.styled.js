@@ -32,6 +32,7 @@ export const InputForm = styled.input`
 
   &::placeholder {
     color: rgba(134, 133, 136, 0.9);
+  }
 `;
 
 export const BtnForm = styled.button`

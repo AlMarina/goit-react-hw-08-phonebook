@@ -6,6 +6,7 @@ export const Label = styled.label`
   gap: 5px;
   margin-top: 10px;
   margin-bottom: 30px;
+  text-align: center;
   font-size: 18px;
 
   &:focus-within {
@@ -13,6 +14,7 @@ export const Label = styled.label`
 `;
 
 export const InputFilter = styled.input`
+  margin: auto;
   width: 250px;
   height: 25px;
   font-size: 18px;
@@ -21,4 +23,5 @@ export const InputFilter = styled.input`
 
 export const Container = styled.div`
   width: 500px;
+  margin: auto;
 `;

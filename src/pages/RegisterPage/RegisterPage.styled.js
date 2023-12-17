@@ -8,7 +8,7 @@ export const Form = styled.form`
   border: 1px solid;
   border-radius: 4px;
   width: 450px;
-background-color: rgba(197, 212, 180, 0.9);
+ background-color: rgba(197, 212, 180, 0.9);
 
   &:focus-within {
   border-color: blue;
@@ -31,7 +31,9 @@ export const InputForm = styled.input`
   font-size: 18px;
 
   &::placeholder {
+    // font-size: 14px;
     color: rgba(134, 133, 136, 0.9);
+  }
 `;
 
 export const BtnForm = styled.button`

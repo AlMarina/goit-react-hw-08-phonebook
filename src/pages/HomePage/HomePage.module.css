@@ -1,0 +1,20 @@
+.icon_home {
+  fill: #c77676;
+
+  width: 350px;
+  height: 350px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.text {
+  font-size: 46px;
+  font-weight: 700;
+  width: 400px;
+  text-align: center;
+}
