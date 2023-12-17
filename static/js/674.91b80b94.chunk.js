@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[674],{8674:function(e,o,c){c.r(o),c.d(o,{default:function(){return i}});c(2791);var n=c(9482),t="HomePage_icon_home__TlvSB",_="HomePage_container__uNu-e",a="HomePage_text__2XixT",s=c(184),i=function(){return(0,s.jsxs)("div",{className:_,children:[(0,s.jsx)(n.xiF,{className:t}),(0,s.jsx)("p",{className:a,children:"Welcome to our contact service!"})]})}}}]);
+//# sourceMappingURL=674.91b80b94.chunk.js.map
